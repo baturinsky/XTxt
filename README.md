@@ -1,4 +1,4 @@
-#XTxt - AS3 new text engine made easy
+#XTxt - AS3 TLF Text engine made easy
 
 XTxt is a lightweight lib that allows using Flex4 text engine about as easy as possible.
 Supports inline images, links, multiple native and embedded fonts and text styles.
