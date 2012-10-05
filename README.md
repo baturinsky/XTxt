@@ -5,3 +5,6 @@ Supports inline images, links, multiple native and embedded fonts and text style
 See example to get an idea.
 
 As a little extra, there is a simple (but fancy) Scrollbox class that can be used with or without XTxt.
+
+###License
+BSD
